@@ -1,34 +1,24 @@
-<main>
-  <div></div>
-  <div></div>
-</main>
+<div>
+  <p></p>
+  <p></p>
+</div>
 <style>
-  body {
+  * {
     background: #6592cf;
+    margin: 0;
   }
-  main {
-    width: 100%;
-    height: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  p:first-child {
+    background: #243d83;
+    width: 300px;
+    height: 150px;
+    margin: 75px 50px;
   }
-  main > div:first-child {
+  p:last-child {
+    margin: -175px 175px;
     width: 50px;
     height: 50px;
     border-radius: 50%;
     background: #eeb850;
     box-shadow: 0 0 0 50px #243d83, 0 0 0 100px #6592cf;
-    position: fixed;
-    z-index: 2;
-  }
-  main > div:last-child {
-    z-index: 1;
-    background: #243d83;
-    width: 300px;
-    height: 150px;
   }
 </style>

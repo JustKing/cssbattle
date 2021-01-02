@@ -1,1 +1,1 @@
-![simple square](https://yadi.sk/i/i1GjO_98Si0rPQ)
+![simple square](https://downloader.disk.yandex.ru/preview/c664ece8606183f47b6ef5ac337af9d9b2ccbbd4c518a1482d982adb450cb583/5ff0da42/bN7eONDmgNUsZR_VRPr7WJHkH9sqMqj3I4bvCs9MmE4Ru04F048M8xv0-qlYX-ucOxIs7YoeHAKOPPwCYuKGMQ%3D%3D?uid=0&filename=%231%20-%20simple%20square.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)

@@ -1,0 +1,25 @@
+<p></p>
+<style>
+  * {
+    background: #62306d;
+    margin: 0;
+  }
+  p {
+    width: 100;
+    height: 150;
+    margin: 200 50;
+    background-color: #f7ec7d;
+    box-shadow: 100px 0 #f7ec7d, 200px 0 #f7ec7d, 100px -100px #f7ec7d;
+  }
+  p::after {
+    content: "";
+    margin: -30 20;
+    position: absolute;
+    width: 60;
+    height: 60;
+    border-radius: 50%;
+    background-color: #e38f66;
+    box-shadow: 0 0 0 20px #aa445f, 100px -100px #aa445f,
+      100px -100px 0 20px #e38f66, 200px 0 #e38f66, 200px 0 0 20px #aa445f;
+  }
+</style>

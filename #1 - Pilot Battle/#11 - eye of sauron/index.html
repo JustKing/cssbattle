@@ -1,0 +1,33 @@
+<p></p>
+<style>
+  * {
+    background: #191210;
+    margin: 0;
+  }
+  p {
+    width: 50;
+    height: 50;
+    margin: 125 175;
+    border-radius: 50%;
+    background-color: #84271c;
+    box-shadow: 0 0 0 25px #191210, 0 0 0 45px #eca03d;
+  }
+  p::after,
+  p::before {
+    content: "";
+    position: absolute;
+    width: 60;
+    height: 60;
+    border-radius: 50%;
+    border: 20px solid;
+    transform: rotate(45deg);
+  }
+  p::after {
+    margin: -25 -125;
+    border-color: #0000 #eca03d #eca03d #0000;
+  }
+  p::before {
+    margin: -25 75;
+    border-color: #eca03d #0000 #0000 #eca03d;
+  }
+</style>

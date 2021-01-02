@@ -1,0 +1,1 @@
+![missing slice](https://yadi.sk/i/u1A5v5uPWcWzLw)

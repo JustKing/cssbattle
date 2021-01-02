@@ -1,0 +1,1 @@
+![simple square](https://yadi.sk/i/i1GjO_98Si0rPQ)

@@ -1,1 +1,1 @@
-![ups n downs](https://yadi.sk/i/2HHCPZHaVICVcg)
+![ups n downs](https://3.downloader.disk.yandex.ru/preview/b9e99ee663f28c59f363e3071ca68ea09ceb4559727c505f85324abb7c45cd53/inf/D8KFlpt7mQqOVHXdzkPC7D1OCfbXdFSg3hCnDhqqmgr9NvK9eMGbygbh4_g_yYZdGFYZVY6H57lNLB_HeAS0HA%3D%3D?uid=96074466&filename=%234%20-%20ups%20n%20downs.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=96074466&tknv=v2&size=2648x1448)

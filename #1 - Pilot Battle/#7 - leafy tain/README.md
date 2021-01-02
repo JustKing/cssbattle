@@ -1,1 +1,1 @@
-![leafy train](https://yadi.sk/i/h0JH7_e5nAmmdw)
+![leafy train](https://2.downloader.disk.yandex.ru/preview/3e40c6af0c1c003b6379c0fb501464a80c6d41e4d11e08532a93f48d45d1c692/inf/9R8wbHLVixOxn4K7nNtvTCwbf6klJVIE4mrOfBosvIuRy8_M50vqWuuXQDHCGd5XvJoDwwUctOd8-szipR6m0w%3D%3D?uid=96074466&filename=%237%20-%20leafy%20train.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=96074466&tknv=v2&size=2648x1448)

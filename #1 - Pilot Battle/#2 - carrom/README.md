@@ -1,1 +1,1 @@
-![carrom](https://disk.yandex.ru/client/disk/cssbattle/%231%20-%20pilot%20battle?idApp=client&dialog=slider&idDialog=%2Fdisk%2Fcssbattle%2F%231%20-%20pilot%20battle%2F%232%20-%20carrom.png)
+![carrom](https://1.downloader.disk.yandex.ru/preview/b7e5dd09f395ab0eb2d502113529e7f761645129108714765719296ce6a09861/inf/bN7eONDmgNUsZR_VRPr7WCdTR4ywvC7jvKdRf3CFTmmbjzEKl9INHZqv9EIzj_gir2LJ1OPXt8ElRSG35KtBdA%3D%3D?uid=96074466&filename=%232%20-%20carrom.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=96074466&tknv=v2&size=2648x1448)

@@ -1,1 +1,1 @@
-![push button](https://yadi.sk/i/bj2maVJHtncu-Q)
+![push button](https://1.downloader.disk.yandex.ru/preview/4d5ee9d42e4df6b95a115ff1ee68814d12ef3602579b32026e45975495640993/inf/O6b2DEcSG-rB_-IstjkmSZtu0eNC47xjFoOGF8QmPp9R1S2KtKY7wPh4m26QVJV5pY9umzKitOfgyJYa7mW9sA%3D%3D?uid=96074466&filename=%233%20-%20push%20button.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=96074466&tknv=v2&size=2648x1448)

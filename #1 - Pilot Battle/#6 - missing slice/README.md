@@ -1,1 +1,1 @@
-![missing slice](https://yadi.sk/i/u1A5v5uPWcWzLw)
+![missing slice](https://3.downloader.disk.yandex.ru/preview/14ff3b33fd46bce4cb9ac099aef7d62f080fce8900b26df6092219ffb517831c/inf/zzW57YZM0g-Qa6tcVk5hkwcuVDAwWLkUJ2DLunJZ9fYtz1wgdqcGh1lGUg8SaiWJdAf35wd0r3mL0Zj8RTicaA%3D%3D?uid=96074466&filename=%236%20-%20missing%20slice.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=96074466&tknv=v2&size=2648x1448)

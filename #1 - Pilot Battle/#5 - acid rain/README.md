@@ -1,1 +1,1 @@
-![acid rain](https://yadi.sk/i/FVkxlPUR8jBRGw)
+![acid rain](https://1.downloader.disk.yandex.ru/preview/1c8296242d3ca9a5999f1b7b86b89cc34a4fd8ae88f0e5a2cec52a874082d07f/inf/-3WbCOx3g2-bJmr8wVaKkbYYV_Swtb1CnhKGr5RAKllKLEWfCzLj63YnwYhUSxLBUJ4cvSd-0ItBExD54TeRLg%3D%3D?uid=96074466&filename=%235%20-%20acid%20rain.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=96074466&tknv=v2&size=2648x1448)

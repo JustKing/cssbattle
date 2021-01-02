@@ -1,1 +1,1 @@
-![forking crazy](https://yadi.sk/i/Zhb5b6vRRhJOhw)
+![forking crazy](https://3.downloader.disk.yandex.ru/preview/8206f19d03b0a0bc110c2285c00d2ac89e6e6643d1bd7bae625aefad0720c6cf/inf/zolzYT6QWkAPQ3FzUVrQITcupaPyaSW6b1y-xv9ZF_QPmFYBXP1fFquTIMitAj46Gm3kKrkMWBwIg207C_TzSg%3D%3D?uid=96074466&filename=%238%20-%20forking%20crazy.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=96074466&tknv=v2&size=2648x1448)

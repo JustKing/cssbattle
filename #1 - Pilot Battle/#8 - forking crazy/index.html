@@ -1,5 +1,4 @@
-<p></p>
-<p></p>
+<a></a><b></b>
 <style>
   body {
     background: #6592cf;
@@ -7,7 +6,7 @@
     align-items: center;
     justify-content: center;
   }
-  p:nth-of-type(1) {
+  a {
     height: 140;
     width: 140;
     margin: 60 0 0 0;
@@ -15,7 +14,7 @@
     border-bottom-right-radius: 50%;
     background-color: #060f55;
   }
-  p:nth-of-type(2) {
+  b {
     width: 140;
     height: 90;
     margin: 0 0 90 -140;
@@ -27,26 +26,26 @@
       #6592cf 40px
     );
   }
-  p:nth-of-type(1)::after,
-  p:nth-of-type(2)::after,
-  p:nth-of-type(2)::before {
+  a::after,
+  b::after,
+  b::before {
     content: "";
     width: 20;
     height: 20;
     position: absolute;
     border-radius: 50%;
   }
-  p:nth-of-type(2)::before {
+  b::before {
     margin: -10 0;
     background-color: #060f55;
     box-shadow: 40px 0 #060f55, 80px 0 #060f55, 120px 0 #060f55;
   }
-  p:nth-of-type(2)::after {
+  b::after {
     margin: 80 20;
     background-color: #6592cf;
     box-shadow: 40px 0 #6592cf, 80px 0 #6592cf;
   }
-  p:nth-of-type(1)::after {
+  a::after {
     margin: 130 60;
     height: 60;
     border-radius: 0;

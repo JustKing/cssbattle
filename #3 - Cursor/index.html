@@ -1,0 +1,31 @@
+<p></p>
+<style>
+  body {
+    background: #0b2429;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  p,
+  p::after,
+  p::before {
+    content: "";
+    height: 100;
+    width: 100;
+    background: #f3ac3c;
+    display: block;
+  }
+  p {
+    display: inline-block;
+    margin: 0 0 -71 0;
+    transform: rotate(45deg);
+  }
+  p::after {
+    background: #998235;
+    transform: translate(-75%, -125%) skewY(45deg) scale(0.5, 1);
+  }
+  p::before {
+    background: #1a4341;
+    transform: translate(-25%, -75%) skewX(45deg) scale(1, 0.5);
+  }
+</style>

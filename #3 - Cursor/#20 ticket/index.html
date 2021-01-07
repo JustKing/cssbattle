@@ -1,0 +1,33 @@
+<p></p>
+<style>
+  body {
+    background: #62306d;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  p {
+    height: 100;
+    width: 200;
+    background: linear-gradient(to right, #f7ec7d 70%, #e38f66 30%);
+  }
+  p::after,
+  p::before {
+    content: "";
+    position: absolute;
+    border-radius: 50%;
+    background: #62306d;
+  }
+  p::after {
+    margin: -20;
+    height: 40;
+    width: 40;
+    box-shadow: 0 100px #62306d, 200px 100px #62306d, 200px 0 #62306d;
+  }
+  p::before {
+    height: 20;
+    width: 20;
+    margin: -10 130;
+    box-shadow: 0 100px #62306d;
+  }
+</style>

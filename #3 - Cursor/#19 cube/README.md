@@ -1,1 +1,1 @@
-![wiggly moustache](./img.png)
+![cube](./img.png)
